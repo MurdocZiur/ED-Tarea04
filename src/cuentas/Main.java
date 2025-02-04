@@ -1,7 +1,7 @@
 package cuentas;
 
 public class Main {
-//*comentario parahacer una subidad a GitHub*/
+//*modifico el codigo para el Commit descrptivo*/
     public static void main(String[] args) {
         //* Creamos una cuenta*/
         CCuenta cuenta1 = new CCuenta("Antonio López", "1000-2365-85-1230456789", 2500, 0);
